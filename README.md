@@ -1,4 +1,4 @@
-# Hi, I'm Matt Frost! 👋
+# Hi, I'm Matthew Frost! 👋
 
 ### 🎓 Computer Science Student at Marist University
 I am a Junior CS major with a passion for Full Stack Development, Network Infrastructure, and Database Management. I'm currently building projects that bridge the gap between software engineering and real-world application.
